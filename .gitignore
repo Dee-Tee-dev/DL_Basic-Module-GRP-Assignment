@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+.DS_Store
+
+style_imgs/
+lora_out/
+samples/
+
+.cache/
+venv/
+.env/
