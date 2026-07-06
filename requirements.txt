@@ -1,0 +1,11 @@
+torch
+torchvision
+torchaudio
+diffusers
+transformers
+accelerate
+peft
+safetensors
+pillow
+tqdm
+datasets
